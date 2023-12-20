@@ -143,3 +143,6 @@
     width: calc(100% - 80px);
     padding: 1rem;
 }
+.sidebar {
+    position: fixed;
+}
